@@ -1,0 +1,7 @@
+:root {
+  --teal: #0F5257;   /* trust & calm */
+  --amber: #F2A104;  /* alerts & warmth */
+  --cream: #FAF7F0;  /* family-feel background */
+}
+body { background: var(--cream); font-family: system-ui, sans-serif; color: #222; margin: 2rem; }
+h1 { color: var(--teal); }
